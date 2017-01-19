@@ -1,5 +1,5 @@
 name:                writer-cps-morph
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            MFunctor instance for CPS style WriterT and RWST
 description:         MFunctor instance for CPS style WriterT and RWST
 homepage:            https://github.com/louispan/writer-cps-morph#readme
@@ -8,7 +8,7 @@ license-file:        LICENSE
 author:              Louis Pan
 maintainer:          louis@pan.me
 copyright:           2017 Louis Pan
-category:            Web
+category:            Control
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
