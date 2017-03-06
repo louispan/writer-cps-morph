@@ -1,5 +1,5 @@
 name:                writer-cps-morph
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            MFunctor instance for CPS style WriterT and RWST
 description:         MFunctor instance for CPS style WriterT and RWST
 homepage:            https://github.com/louispan/writer-cps-morph#readme
