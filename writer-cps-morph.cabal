@@ -26,4 +26,4 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/writer-cps-morph
+  location: https://github.com/louispan/writer-cps-morph
